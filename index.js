@@ -7,5 +7,5 @@ return array
 }
 
 function johnLennonFacts(facts) {
-  while(facts = 0)
+  while(facts = 0) 
 }
