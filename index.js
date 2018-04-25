@@ -21,6 +21,6 @@ function iLoveTheBeatles(n) {
   do {
     array.push("I love the Beatles!")
   }
-  while iLoveTheBeatles(n)
+  while 
     let n = 0
 }
