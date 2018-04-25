@@ -10,6 +10,7 @@ function johnLennonFacts(facts) {
   var array = []
   let i = 0
   while(i < facts.length) {
+    i++
   array.push(`${facts[i]}!!!`);
   }
 }
