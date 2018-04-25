@@ -8,6 +8,6 @@ return array
 
 function johnLennonFacts(facts) {
   while(facts.length > 0) {
-    facts=facts+"!!!";
+   return facts+"!!!";
   }
 }
