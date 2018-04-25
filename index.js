@@ -8,9 +8,6 @@ return array
 
 function johnLennonFacts(facts) {
   while(facts.length > 0) {
-    facts.
+    facts=facts+"!!!";
   }
 }
-
-for(var i=0;i<array.length;i++){
-    array[i]="#"+array[i];
