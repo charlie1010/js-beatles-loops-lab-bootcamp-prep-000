@@ -1,3 +1,3 @@
 function theBeatlesPlay(musicians,instruments) {
-  for()
+  for(let array[], )
 }
