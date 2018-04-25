@@ -7,8 +7,8 @@ return array
 }
 
 function johnLennonFacts(facts) {
-  while(facts = 0) {
-    facts
+  while(facts.length > 0) {
+    facts.
   }
 }
 
