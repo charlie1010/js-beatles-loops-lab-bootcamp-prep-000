@@ -7,7 +7,7 @@ return array
 }
 
 function johnLennonFacts(facts) {
-  
+  let i = 0
   while(facts.length > 0) {
    return facts+"!!!";
   }
